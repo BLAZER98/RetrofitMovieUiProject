@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RetrofitMovieUiProject</string>
+    <string name="MovieBox">MovieBox</string>
+    <string name="playing_now">Playing now</string>
+    <string name="most_popular">Most Popular</string>
+    <string name="todo">TODO</string>
+    <string name="retrofit_language">en-US</string>
+    <string name="retrofit_api_key">6793495b5ebfe86b991a75dd7950ee9d</string>
+</resources>
